@@ -1,0 +1,101 @@
+[
+    {
+        "name": "City Convention Hall",
+        "city": "Chennai",
+        "capacity": 1000,
+        "event_types": [
+            "college event",
+            "conference",
+            "cultural event",
+            "hackathon"
+        ],
+        "approximate_rent": 50000,
+        "facilities": [
+            "stage",
+            "chairs",
+            "tables",
+            "parking",
+            "power backup",
+            "restrooms"
+        ]
+    },
+    {
+        "name": "Green Garden Event Hall",
+        "city": "Chennai",
+        "capacity": 600,
+        "event_types": [
+            "college event",
+            "cultural event",
+            "birthday",
+            "workshop"
+        ],
+        "approximate_rent": 35000,
+        "facilities": [
+            "stage",
+            "chairs",
+            "tables",
+            "parking",
+            "restrooms"
+        ]
+    },
+    {
+        "name": "Tech Park Auditorium",
+        "city": "Chennai",
+        "capacity": 500,
+        "event_types": [
+            "hackathon",
+            "conference",
+            "workshop",
+            "college event"
+        ],
+        "approximate_rent": 30000,
+        "facilities": [
+            "projector",
+            "sound system",
+            "stage",
+            "chairs",
+            "wifi",
+            "parking"
+        ]
+    },
+    {
+        "name": "Community Function Hall",
+        "city": "Cuddalore",
+        "capacity": 500,
+        "event_types": [
+            "college event",
+            "cultural event",
+            "workshop",
+            "conference"
+        ],
+        "approximate_rent": 25000,
+        "facilities": [
+            "stage",
+            "chairs",
+            "tables",
+            "parking",
+            "restrooms",
+            "power backup"
+        ]
+    },
+    {
+        "name": "Beachside Convention Center",
+        "city": "Pondicherry",
+        "capacity": 800,
+        "event_types": [
+            "cultural event",
+            "college event",
+            "conference",
+            "wedding"
+        ],
+        "approximate_rent": 60000,
+        "facilities": [
+            "stage",
+            "parking",
+            "sound system",
+            "chairs",
+            "tables",
+            "restrooms"
+        ]
+    }
+]
